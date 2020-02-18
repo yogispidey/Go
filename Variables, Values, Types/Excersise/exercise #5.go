@@ -6,7 +6,7 @@ type yogi int
 var x yogi
 var y int
 
-z:=10
+var z=10
 
 func main() {
 
